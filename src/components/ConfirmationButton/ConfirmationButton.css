@@ -1,0 +1,10 @@
+.confirmation-button {
+    width: 319px;
+    height: 86px;
+    border-radius: 30px;
+    flex-shrink: 0;
+    background-color: #FF4747;
+    border: none;
+    font-size: 48px;
+    cursor: pointer;
+}

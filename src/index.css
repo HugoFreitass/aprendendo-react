@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Jersey+10&display=swap');
+
+* {
+    box-sizing: border-box;
+    text-decoration: none;
+    box-shadow: none;
+    font-family: "Jesey 10", sans-serif;
+    color: #FFF;
+    background-color: #101022;
+}
